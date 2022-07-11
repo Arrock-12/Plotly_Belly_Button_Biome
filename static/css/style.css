@@ -1,0 +1,21 @@
+
+.jumbotron {
+    background-image: url("../images/Bacteria.jpg");
+    background-size: cover; 
+    color:aliceblue;
+    font-family: "Lucinda Sans Unicode";
+}
+
+.well {
+    background-color: #006A80;
+    color: black;
+}
+
+.row {
+    font-family: "Lucinda Sans Unicode"; 
+}
+
+.panel > .panel-heading {
+    background-color: #006A80;
+}
+
